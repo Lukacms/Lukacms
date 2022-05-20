@@ -36,9 +36,11 @@ src="https://img.shields.io/github/followers/Lukacms?logo=github&style=for-the-b
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Lukacms"><img src="https://github-readme-stats.vercel.app/api?username=Lukacms&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Lukacms's GitHub stats" /></a>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Lukacms&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Lukacms's GitHub stats" />
 
-<a href="https://github.com/Lukacms" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukacms&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukacms&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+</p>
 
 <b>Top Repositories</b>
 
