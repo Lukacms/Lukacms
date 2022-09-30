@@ -4,12 +4,12 @@ Hi 👋 My name is Luka CAMUS
 Student at EPITECH Bordeaux
 ---------------------------
 
-I'm currently a first-year student at Epitech Bordeaux, France. I'm passionnate about programming and learning new things. <br/>
+I'm currently a second-year student at Epitech Bordeaux, France. I'm passionnate about programming and learning new things. <br/>
 I want to expand my knowledge and share what I know.
 
 * 🌍  I'm based in Bordeaux
 * ✉️  You can contact me at [luka.camus@hotmail.com](mailto:luka.camus@hotmail.com)
-* 🧠  I'm learning Rust
+* 🧠  I'm learning Java
 * ⚡  passionate about rock climbing 🧗‍♂
 
 <a
