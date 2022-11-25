@@ -8,7 +8,7 @@ I'm currently a first-year student at Epitech Bordeaux, France. I'm passionnate 
 I want to expand my knowledge and share what I know.
 
 * 🌍  I'm based in Bordeaux
-* ✉️  You can contact me at [luka.camus@hotmail.com](mailto:luka.camus@hotmail.com)
+* ✉️  You can contact me at [luka.camus@epitech.eu](mailto:luka.camus@epitech.eu)
 * 🧠  I'm learning Rust
 * ⚡  passionate about rock climbing 🧗‍♂
 
