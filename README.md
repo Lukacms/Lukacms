@@ -97,9 +97,9 @@ align="left">
 <p
     align="center">
     <img
-        src="https://github-readme-stats.vercel.app/api?username=Lukacms&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Lukacms's GitHub stats"
+        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Lukacms&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true%22%20alt=%22Lukacms%27s%20GitHub%20stats%22"
     />
     <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukacms&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"
+        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lukacms&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages%22%20alt=%22Top%20Languages%22&layout=compact"
     />
 </p>
