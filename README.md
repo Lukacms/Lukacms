@@ -1,12 +1,15 @@
-<h1 align="center">Hi ! I'm Luka Camus</h1>
+Hi 👋 My name is Luka CAMUS
+===========================
 
-###
+Student at EPITECH Bordeaux
+---------------------------
 
-<h3 align="left">Student at EPITECH Bordeaux</h3>
+I'm currently a second-year student at Epitech Bordeaux, France. I'm passionnate about programming and learning new things. <br/>
+I want to expand my knowledge and share what I know.
 
-###
-
-<p align="left">I'm currently a second-year student at Epitech Bordeaux, France. I'm passionnate about programming and learning new things.<br>I want to expand my knowledge and share what I know.</p>
+* 🌍  I'm based in Bordeaux
+* ✉️  You can contact me at [luka.camus@epitech.eu](mailto:luka.camus@epitech.eu)
+* ⚡  passionate about rock climbing 🧗‍♂
 
 ###
 
@@ -54,7 +57,7 @@
   <a href="https://www.linkedin.com/in/luka-camus-7816b622b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <a href="camusluka@gmail.com" target="_blank">
+  <a href="mailto:camusluka@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
 </div>
