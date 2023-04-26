@@ -18,9 +18,9 @@ I want to expand my knowledge and share what I know.
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lukacms&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Lukacms&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" height="200" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Lukacms&locale=en&mode=daily&theme=rose_pine&hide_border=false&border_radius=5&date_format=j M[ Y]&order=3" height="200" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lukacms&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=rose_pine&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lukacms&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" height="200" alt="languages graph"  />
 </div>
 
 ###
