@@ -4,7 +4,7 @@ Hi 👋 My name is Luka CAMUS
 Student at EPITECH Bordeaux
 ---------------------------
 
-I'm currently a second-year student at Epitech Bordeaux, France. I'm passionnate about programming and learning new things. <br/>
+I'm currently a third-year student at Epitech Bordeaux, France. I'm passionnate about programming and learning new things. <br/>
 I want to expand my knowledge and share what I know.
 
 * 🌍  I'm based in Bordeaux
